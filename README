@@ -1,6 +1,6 @@
 ################### Object Detection Using Color ######################
 
-##Procedure :
+Procedure :
 
 1. Read the image using opencv
 2. Convert to HSV format
