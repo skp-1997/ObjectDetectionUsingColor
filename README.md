@@ -2,6 +2,12 @@
 
 This project detects the object using its color 
 
+# Outputs
+
+![output_index1](https://github.com/skp-1997/ObjectDetectionUsingColor/assets/97504177/c066586c-efcb-43b9-b2ae-1d106b049eed)
+![output_images](https://github.com/skp-1997/ObjectDetectionUsingColor/assets/97504177/168f1aae-b538-4ad8-804f-7204a2cf4a4e)
+
+
 # Procedure :
 
 1. Read the image using opencv
