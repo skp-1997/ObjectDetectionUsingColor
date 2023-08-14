@@ -1,6 +1,6 @@
-################### Object Detection Using Color ######################
+# Object Detection Using Color 
 
-Procedure :
+#Procedure :
 
 1. Read the image using opencv
 2. Convert to HSV format
@@ -10,7 +10,7 @@ Procedure :
 5. Finally use contourArea to filter contours with required pixels size and draw bounding box
 
 
-##Things to remember :
+#Things to remember :
 
 1. Opencv works on BGR image format and Matplotlib works on RGB format
 2. Set the contourArea threshold value as per object you are detecting
