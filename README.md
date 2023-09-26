@@ -22,5 +22,5 @@ This project detects the object using its color
 
 1. Opencv works on BGR image format and Matplotlib works on RGB format
 2. Set the contourArea threshold value as per object you are detecting
-3. You can chnage the color of object by generating accordingly mask
+3. You can change the color of object by generating accordingly mask
 4. You can get the upper and lower threshold to generate particular color mask from dictionary in the code
